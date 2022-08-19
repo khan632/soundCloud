@@ -1,7 +1,7 @@
 # soundCloud
 Spotify clone with static functions like limited number of songs move forward, backward, next, previous, paused, play options. 
 
-Web link:
+Web link: https://cozy-speculoos-bd36c2.netlify.app/
 
 web image :
 ![Screenshot (18)](https://user-images.githubusercontent.com/54110961/185449348-d2c766a4-ca22-4085-b93a-1f2b84874666.png)
